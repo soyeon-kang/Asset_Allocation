@@ -15,9 +15,7 @@ allocate smartly, 거인의 포트폴리오, 강환국 Youtube 를 참고하여 
 
   1. Primarily Passive
   2. Classical Tactical, Slow Tactical
-  3. Keller's Corner, Fast Tactical (
-    Conventional Tactical)
-)
+  3. Keller's Corner, Fast Tactical (Conventional Tactical)
   4. Economic Growth, Bonds
 
 ##
